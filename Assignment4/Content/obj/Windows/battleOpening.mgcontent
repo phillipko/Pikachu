@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/battleOpening.wav</SourceFile>
+  <SourceTime>2016-08-20T16:23:34.8585635+08:00</SourceTime>
+  <DestFile>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/bin/Windows/battleOpening.xnb</DestFile>
+  <DestTime>2017-12-28T00:41:29.4810473+08:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T14:36:08+08:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T14:36:08+08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

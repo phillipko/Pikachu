@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/gastly.png</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/pikachu.png</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/rareCandy.png</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/basicFont.spritefont</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/gengar.png</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/haunter.png</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/collected.wav</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/opening.wav</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/victory.wav</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/battle1.wav</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/win.png</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/title.png</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/loss.png</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/teleport.wav</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/battleOpening.wav</File>
+    <File>D:/dev/Github/phillipko/Pikachu/Assignment4/Content/gameover.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
